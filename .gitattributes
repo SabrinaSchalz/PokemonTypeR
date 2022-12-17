@@ -1,2 +1,1 @@
-* PokemonTypeR-vendored
-*.R linguist-vendored=false
+*.ipynb linguist-vendored=true
