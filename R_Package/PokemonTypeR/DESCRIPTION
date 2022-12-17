@@ -1,0 +1,21 @@
+Package: PokemonTypeR
+Title: Which Types To Use In A Pokemon Battle
+Version: 0.1.0
+Authors@R: 
+    person("Schalz", "Sabrina", , "ss3903@live.mdx.ac.uk", role = c("aut", "cre"),
+           comment = c(ORCID = "orcid.org/0000-0003-0237-4367", website = "sabrinaschalz.wordpress.com"))
+Description: This package has two functions to help you select Pokemon that either have a strong attack
+		or strong defence against your opponent. This can be based on the types of Pokemon your opponent
+		uses (type function), or the name of the Pokemon your opponent uses (name function).
+		The package also has a function to show you the share of Pokemon that have a given type (share function),
+		as well as a function that gives you three random example Pokemons that have a certain type (example function),
+		both of which are meant to help you narrow down the type selection. The dataset was built from the raw data
+		"The Complete "Pokemon Dataset" published by ROUNAK BANIK under a CC0 1.0 Universal licence
+		kaggle.com/datasets/rounakbanik/pokemon
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
