@@ -26,6 +26,3 @@ output$example_name <- renderText({
   })
 
 }
-
-# Run the app ----
-shinyApp(ui = ui, server = server)
