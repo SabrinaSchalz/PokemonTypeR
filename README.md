@@ -19,4 +19,4 @@ In part 3, I wrote four functions to create the recommendations I was looking fo
 
 I saved these functions and the dataset in the package "PokemonTypeR", which is available for installation from this repository using install_github("SabrinaSchalz/PokemonTypeR", subdir="PokemonTypeR")
 
-In part 4 (currently ongoing), I'm building a Shiny app to allow people to use PokemonTypeR in a browser without having R installed.
+In part 4, I built a Shiny app to allow people to use PokemonTypeR in a browser without having R installed. You can find it here:
